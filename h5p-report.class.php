@@ -27,6 +27,7 @@ class H5PReport {
     'H5P.GoalsAssessmentPage' => 'GoalsAssessmentPageProcessor',
     'H5P.StandardPage' => 'StandardPageProcessor',
     'H5P.FreeTextQuestion' => 'IVOpenEndedQuestionProcessor',
+    'H5P.HighlightTheWords' => 'HighlightTheWordsProcessor',
   );
 
   private $processors = array();
